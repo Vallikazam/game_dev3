@@ -1,5 +1,8 @@
 # Labirinth Coin Challenge (Assignment 3)
-
+- **Student**: Alinur Zhumadil SE-2321
+- **Assets**: 
+  - Third-person controller and camera logic by the EasyStart Third Person Controller team.
+  - Maze assets by the Maze Modular Puzzle Kit creators.
 ## Project Overview
 "Labirinth Coin Challenge" is a 3D Unity game where players navigate a maze as a third-person capsule character. The objective is to collect all coins scattered throughout the maze and reach the "Gate" within a 2-minute time limit. The game features a Main Menu with instructions, background music, sound effects for coin collection and win/lose conditions, and a modular maze design.
 
@@ -18,15 +21,6 @@
 ### Scenes
 1. **MainScene**: Title screen with "Start Game," "Instructions," and "Exit Game" buttons, plus background music.
 2. **GameScene**: The core gameplay scene with the maze, player, coins, Gate, and audio effects.
-
----
-
-## By Whom Was Made
-- **Student**: Alinur Zhumadil SE-2321
-- **Assets**: 
-  - Third-person controller and camera logic by the EasyStart Third Person Controller team.
-  - Maze assets by the Maze Modular Puzzle Kit creators.
-- **Date**: Completed as of April 6, 2025 (based on the current date provided).
 
 ---
 
