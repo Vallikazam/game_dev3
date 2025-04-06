@@ -3,6 +3,8 @@
 - **Assets**: 
   - Third-person controller and camera logic by the EasyStart Third Person Controller team.
   - Maze assets by the Maze Modular Puzzle Kit creators.
+  - Skybox assets by Key Mouse (Customizable Skybox).
+  - Environment assets by Moon Tribe (Flat Cube Environment).
 ## Project Overview
 "Labirinth Coin Challenge" is a 3D Unity game where players navigate a maze as a third-person capsule character. The objective is to collect all coins scattered throughout the maze and reach the "Gate" within a 2-minute time limit. The game features a Main Menu with instructions, background music, sound effects for coin collection and win/lose conditions, and a modular maze design.
 
